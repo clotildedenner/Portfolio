@@ -3414,11 +3414,12 @@ td:last-child {
 }
 
 .s-intro__content-title2 {
-    font-size     : clamp(2.8rem, 3.8vw, 7.8rem);
+    font-size     : clamp(2.8rem, 3.8vw, 6.8rem);
     line-height   : 1.045;
     letter-spacing: -0.025em;
     margin-top    : 0;
     margin-bottom : var(--vspace-1_25);
+    color: white;
 }
 
 .s-intro__content-btns {
