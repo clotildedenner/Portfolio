@@ -3413,6 +3413,14 @@ td:last-child {
     margin-bottom : var(--vspace-1_25);
 }
 
+.s-intro__content-title2 {
+    font-size     : clamp(2.8rem, 3.8vw, 7.8rem);
+    line-height   : 1.045;
+    letter-spacing: -0.025em;
+    margin-top    : 0;
+    margin-bottom : var(--vspace-1_25);
+}
+
 .s-intro__content-btns {
     --color-btn           : var(--color-text-dark);
     --color-btn-text      : var(--color-white);
