@@ -3973,8 +3973,8 @@ text-decoration-color: #ff3705
 .folio-entries .entry {
     flex    : none;
     width   : 28%;
-    margin  : 0;
-    padding : 0;
+    margin  : 1%;
+    padding : 1%;
     overflow: hidden;
     position: relative;
 }
